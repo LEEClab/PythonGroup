@@ -1,11 +1,8 @@
-# Introdução à Programação com Python
-## 
-Nilo Ney Coutinho Menezes
+# IntroduÃ§Ã£o Ã  ProgramaÃ§Ã£o com Python
 
+## Nilo Ney Coutinho Menezes
 
+### Capitulo 02: PreparaÃ§Ã£o do ambiente
 
-# Cap 02 Preparação do ambiente
-
-## Intalação do interpretador Python, introdução ao editor de textos, apresentação do IDLE, ambiente de execução,
-como degitar programas e fazer os primeiros testes com operações aritméticas no interpretador
+InstalaÃ§Ã£o do interpretador Python, introduÃ§Ã£o ao editor de textos, apresentaÃ§Ã£o do IDLE, ambiente de execuÃ§Ã£o, como degitar programas e fazer os primeiros testes com operaÃ§Ãµes aritmÃ©ticas no interpretador.
 
