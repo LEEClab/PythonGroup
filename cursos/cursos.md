@@ -14,6 +14,7 @@
   http://excript.com/curso-de-python.html
   
 - Curso de Python 3 
+
   https://www.youtube.com/playlist?list=PLnHC9X5I2m1_BHFb8rS950nCZXpua3Dj3
 
 - Python 300
