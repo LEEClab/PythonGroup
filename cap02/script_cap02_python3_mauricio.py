@@ -145,4 +145,18 @@ aumento = 15
 novo_salario2 = salario * (100 + aumento)/100
 
 print (novo_salario, novo_salario2)
-# Precisamos prestar atencao!!
+# Precisamos prestar atencao com numeros reais (numeros de ponto flutuante ou float), 
+# pois quando fazemos operacoes sem prestar atencao nisso podemos acabar tendo um resultado inesperado!
+
+# Uma dica, ao usarmos python 2, eh sempre importarmos a funcao division do modulo __future__
+# Vejam a diferenca em python 2
+
+from __future__ import division
+
+salario = 750
+aumento = 15
+novo_salario = salario * (100 + aumento)/100
+
+print (novo_salario) #;-)
+
+
