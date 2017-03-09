@@ -140,7 +140,7 @@ print (novo_salario)
 
 # Vejam a diferenca
 
-salario = 750.0
+salario = 750.0 # ou float(750)
 aumento = 15
 novo_salario2 = salario * (100 + aumento)/100
 
