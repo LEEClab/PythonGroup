@@ -20,6 +20,10 @@
 - Python 300
 
   https://www.youtube.com/watch?v=I5-LNy_R-0I&index=1&list=PL8eBmR3QtPL0j3QLEjQ6rcx8rVB8Ir893
+  
+- Python para Zumbis
+
+  https://www.pycursos.com/python-para-zumbis/
 
 - Ignorância Zero
 
