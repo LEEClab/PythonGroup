@@ -8,6 +8,8 @@ como degitar programas e fazer os primeiros testes com operações aritméticas 
 
 Maurício Humberto Vancine
 26/02/2017
+
+Modificado Por Bernardo Niebuhr - 09/03/2017
 """
 
 ### 2.5 Os primeiros progrmas
@@ -98,3 +100,49 @@ salário = 750
 aumento = 15
 print(salário + (salário * aumento / 100))
 
+#########################################
+# Aqui estao os mesmos exercicios feitos pelo Bernardo!
+# Vejam como as solucoes variam!
+
+###############
+# Exercicio 2.3
+
+nome = 'Bernardo Niebuhr'
+print (nome)
+
+###############
+# Exercicio 2.4
+
+a = 3
+b = 5
+resultado = 2*a * 3*b
+print (resultado)
+
+###############
+# Exercicio 2.5
+
+a = 2
+b = 3
+c = 1
+print(a + b + c)
+
+###############
+# Exercicio 2.6
+
+salario = 750
+aumento = 15
+novo_salario = salario * (100 + aumento)/100
+
+print (novo_salario)
+
+750 * 1.15
+750.0 * 1.15
+
+# Vejam a diferenca
+
+salario = 750.0
+aumento = 15
+novo_salario2 = salario * (100 + aumento)/100
+
+print (novo_salario, novo_salario2)
+# Precisamos prestar atencao!!
