@@ -2,6 +2,17 @@
 
 ## Membros 
 <img src="" width="100" height="100">
+- André  
+
+  **Formação**: 
+  
+  **Interesses**: 
+  
+  **E-mail**: 
+
+---
+
+<img src="" width="100" height="100">
 - Camila  
 
   **Formação**: 
