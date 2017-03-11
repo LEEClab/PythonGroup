@@ -1,6 +1,7 @@
-# Cursos online de Python
+# Cursos e sites
 
-## Português
+## Cursos online de Python
+
 - Python Básico
 
   https://solyd.com.br/treinamentos/python-basico
@@ -28,3 +29,8 @@
 - Ignorância Zero
 
   https://www.youtube.com/watch?v=lJjR906426o&index=1&list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe
+  
+  ## Sites
+  
+- Aprenda Python
+  http://aprenda-python.blogspot.com.br/p/por-onde-comecar.html
