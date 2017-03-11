@@ -2,7 +2,7 @@
 
 ## Nilo Ney Coutinho Menezes
 
-### Capítulo 03: Preparação do ambiente
+### Capítulo 03: Variáveis e entrada de dados
 
-Instalação do interpretador Python, introdução ao editor de textos, apresentação do IDLE, ambiente de execução, como degitar programas e fazer os primeiros testes com operações aritméticas no interpretador.
+Tipo de variáveis, propriedades de cada tipo, operações e operadores. Apresenta o conceito de programa no tempo e uma técnica simples de rastreamento. Entrada de dados pelo teclado, conversão de tipos de dados e erros comuns.
 
