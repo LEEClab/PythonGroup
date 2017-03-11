@@ -10,6 +10,7 @@
   
   **E-mail**: 
 
+---
 
 <img src="" width="100" height="100">
 - Bernardo
@@ -20,6 +21,7 @@
   
   **E-mail**: 
   
+---
 
 <img src="" width="100" height="100">
 - Felipe  
@@ -29,7 +31,8 @@
   **Interesses**: 
   
   **E-mail**: 
-  
+
+---
   
   <img src="https://github.com/LEEClab/SDMGroup/blob/master/members/mau.jpg" width="100" height="100">
 - Maurício Humberto Vancine    
@@ -40,6 +43,7 @@
   
   **E-mail**: mauricio.vancine@gmail.com
   
+  ---
   
   <img src="" width="100" height="100">
 - Rafael  
@@ -49,3 +53,5 @@
   **Interesses**: 
   
   **E-mail**: 
+
+---
