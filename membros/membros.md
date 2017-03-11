@@ -13,7 +13,7 @@
 ---
 
 <img src="" width="100" height="100">
-- Camila  
+- Bernardo 
 
   **Formação**: 
   
@@ -24,7 +24,7 @@
 ---
 
 <img src="" width="100" height="100">
-- Bernardo
+- Camila
 
   **Formação**: 
   
