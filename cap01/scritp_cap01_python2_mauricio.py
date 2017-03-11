@@ -10,5 +10,5 @@ Maurício Humberto Vancine
 26/02/2017
 """
 
-# Listagem 1.1 - Programa Ola Mundo
-print "Ola!"
+# Listagem 1.1 - Programa Olá Mundo
+print "Olá!"
