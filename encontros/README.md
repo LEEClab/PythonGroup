@@ -18,6 +18,6 @@
 * Leitura e resolução dos exercícios do Cap. 3
 * Mudança de data e horário: **QUARTA, das 10:30 - 12 h**
 
-## 003 - 09/03/2017 - Cap. 3: Variáveis e entrada de dados
+## 003 - 23/03/2017 - Cap. 3: Variáveis e entrada de dados
 
 * 
