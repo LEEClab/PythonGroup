@@ -16,10 +16,10 @@ Estamos utilizando o interpretador Rodeo (http://rodeo.yhat.com) para executar o
 1. Baixe e instale o software Rodeo para seu Sistema Operacional (SO).
 (https://www.yhat.com/products/rodeo)
 
-2. Baixe e instale o software Anaconda, com Python 2.
+2. Baixe e instale o software Anaconda para Python 2.
 (https://www.continuum.io/downloads)
 
-3. Abra o software Rodeo, depois siga o caminho no alto da Barra de ferramentas: Rodeo > Preferences > Python.
+3. Abra o software Rodeo, depois siga o caminho no alto da Barra de Ferramentas: Rodeo > Preferences > Python.
 
 4. Em *Default Working Directory*, clique nos três pontos e siga para a pasta "C:\Users\nome_do_seu_computador\Anaconda2".
 
