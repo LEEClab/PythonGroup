@@ -6,7 +6,7 @@
 * Definição da versão do Python - Python 2
 * Definição do interpretar a se utilizar - Rodeo (http://rodeo.yhat.com)
 * Escolha do livro "Introdução à Programação com Python" para se utilizar como base
-* Definição da data: ** QUINTA, das 11-12 h **
+* Definição da data: **QUINTA, das 11-12 h**
 * Leitura e resolução dos exercícios do Cap. 2
 
 ## 002 - 09/03/2017 - Cap. 1: Motivação e Cap. 02: Preparação do ambiente
