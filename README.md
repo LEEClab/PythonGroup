@@ -27,6 +27,9 @@ Estamos utilizando o interpretador Rodeo (https://www.yhat.com/products/rodeo) p
 
 6. Para conferir qual é a versão do Python que você está utilizando no Rodeo, rode os comandos abaixo:
 ```[Python]
+# Importando a funcao "python_version" do modelo "platform"
 from platform import python_version
+
+# Rodando e imprimindo a versao na tela:
 print (python_version())
 ```
