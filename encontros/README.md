@@ -1,12 +1,4 @@
-# Introdução à Programação com Python
-
-### Nilo Ney Coutinho Menezes
-
-### Site do livro
-
-https://python.nilo.pro.br/index.html
-
-## Encontros
+# Encontros
 
 ### 001 - 23/02/2017 - Reunião Inicial
 
