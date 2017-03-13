@@ -1,6 +1,14 @@
-# Encontros
+# Introdução à Programação com Python
 
-## 001 - 23/02/2017 - Reunião Inicial
+### Nilo Ney Coutinho Menezes
+
+### Site do livro
+
+https://python.nilo.pro.br/index.html
+
+## Encontros
+
+### 001 - 23/02/2017 - Reunião Inicial
 
 * Criação do grupo no GitHub
 * Definição da versão do Python - Python 2
@@ -9,7 +17,7 @@
 * Definição da data: **QUINTA, das 11-12 h**
 * Leitura e resolução dos exercícios do Cap. 2
 
-## 002 - 09/03/2017 - Cap. 1: Motivação e Cap. 02: Preparação do ambiente
+### 002 - 09/03/2017 - Cap. 1: Motivação e Cap. 02: Preparação do ambiente
  
 * Problemas com a instalação dos interpretadores
 * Cap. 1 - Motivação - leitura
@@ -18,6 +26,6 @@
 * Leitura e resolução dos exercícios do Cap. 3
 * Mudança de data e horário: **QUARTA, das 10:30 - 12 h**
 
-## 003 - 23/03/2017 - Cap. 3: Variáveis e entrada de dados
+### 003 - 23/03/2017 - Cap. 3: Variáveis e entrada de dados
 
 * 
