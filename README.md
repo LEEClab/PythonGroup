@@ -2,7 +2,7 @@
 Grupo de estudos de Python para Análises Espaciais
 
 ## Objetivos
-Nosso objetivo é estudar Python para automatizar análises espaciais no GRASS GIS (https://grass.osgeo.org) através do módulo *grass.script* e ArcGIS (https://www.arcgis.com/features/index.html) através do módulo *ArcPy*.
+Nosso objetivo é estudar Python para automatizar análises espaciais no GRASS GIS (https://grass.osgeo.org) através do módulo *grass.script*, QGIS (http://www.qgis.org/en/site/) e ArcGIS (https://www.arcgis.com/features/index.html) através do módulo *ArcPy*.
 
 
 ## Estratégia do grupo
