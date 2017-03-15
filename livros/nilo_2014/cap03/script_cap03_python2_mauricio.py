@@ -8,6 +8,8 @@ como degitar programas e fazer os primeiros testes com operações aritméticas 
 
 Maurício Humberto Vancine
 26/02/2017
+
+Modificado Por Bernardo Niebuhr - 09/03/2017
 """
 
 ### 2.5 Os primeiros progrmas
