@@ -2,14 +2,14 @@
 Introdução à Programação com Python
 Nilo Ney Coutinho Menezes
 
-Cap 02 Preparação do ambiente
-Intalação do interpretador Python, introdução ao editor de textos, apresentação do IDLE, ambiente de execução,
-como degitar programas e fazer os primeiros testes com operações aritméticas no interpretador
+Cap 03 Variáveis e entrada de dados
+Tipo de variáveis, propriedades de cada tipo, operações e operadores. Apresenta o conceito de programa no 
+tempo e uma técnica simples de rastreamento. Entrada de dados pelo teclado, conversão de tipos de dados e 
+erros comuns
+
 
 Maurício Humberto Vancine
-26/02/2017
-
-Modificado Por Bernardo Niebuhr - 09/03/2017
+15/03/2017
 """
 
 ### 2.5 Os primeiros progrmas
