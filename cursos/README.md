@@ -33,4 +33,21 @@
   ## Sites
   
 - Aprenda Python
+
   http://aprenda-python.blogspot.com.br/p/por-onde-comecar.html
+  
+ - Learn X in Y minutes. Where X=python3
+  
+  https://learnxinyminutes.com/docs/python3/
+  
+  - Learn X in Y minutes. Where X=python
+  
+  https://learnxinyminutes.com/docs/python/
+  
+  - matplotlib
+  
+  http://matplotlib.org/index.html
+  
+  - 10 Minutes to pandas
+  
+  http://pandas.pydata.org/pandas-docs/stable/10min.html
