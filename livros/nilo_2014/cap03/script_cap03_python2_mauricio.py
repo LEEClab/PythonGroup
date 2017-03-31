@@ -101,6 +101,15 @@ not c # False
 not b # True
 not a # False
 a and b # False
+b and c # False
+a or c # True
+b or c # True
+a or c # True
+b or c # True
+c or a # True
+c or b # True
+c or c # True
+b or b # False
 
 
 
@@ -108,12 +117,167 @@ a and b # False
 
 ## Exercício 3.4 ##
 salario = 1500
-salario > 1500
+imposto = 1200
+
+salario >= imposto 
+
+salario = 1199
+imposto = 1200
+
+salario >= imposto 
 
 
 
+## Exercício 3.5 ##
+A = 1
+B = 2
+C = True
+D = False
+A > B and C or D # False
+
+A = 10
+B = 3
+C = False
+D = False
+A > B and C or D # False
+
+A = 5
+B = 1
+C = True
+D = True
+A > B and C or D # True
 
 
+## Exercício 3.6 ##
+materia1 = 1
+materia2 = 2
+materia3 = 10
+
+media = 7
+
+(materia1 + materia2 + materia3) / 3 >= media
+
+materia1 = 10
+materia2 = 8
+materia3 = 10
+
+media = 7
+
+(materia1 + materia2 + materia3) / 3 >= media
+
+###-----------------------------------------------------------###
+
+## 3.4 Variáveis string
+# Listagem 3.7 - A função len
+print(len("A"))
+print(len("AB"))
+print(len(""))
+print(len("O rato roeu a roupa"))
+
+# Listagem 3.8 - Manipulação de strings no interpretador
+a = "ABCDEF"
+print(a[0])
+print(a[1])
+print(a[5])
+print(a[6])
+print(len(a))
+
+## 3.4.1 Operações com strings
+## 3.4.1.1 Concatenação
+# Listagem 3.9 - Exemplo de concatenação
+s = "ABC"
+print(s + "C")
+print(s + "D" * 4)
+print("X" + "-" * 10 + "X")
+print(s + "4x = " + s * 4 )
+
+## 3.4.1.2 Composição
+# Listagem 3.10 - Exemplo de composição com marcadores
+idade = 22
+print("[%d]" % idade)
+print("[%03d]" % idade)
+print("[%3d]" % idade)
+print("[%-3d]" % idade)
+
+# Listagem 3.11 - Exemplo de composição com números decimais
+print("%5f" % 5)
+print("%5.2f" % 5)
+print("%10.2f" % 5)
+
+# Listagem 3.12 - Exemplo de composição de string
+nome = "João"
+idade = 22
+grana = 51.34
+print("%s tem %d anos e R$%f no bolso." % (nome, idade, grana))
+print("%12s tem %3d anos e R$%5.2f no bolso." % (nome, idade, grana))
+print("%12s tem %03d anos e R$%5.2f no bolso." % (nome, idade, grana))
+print("%-12s tem %-3d anos e R$%-5.2f no bolso." % (nome, idade, grana))
+
+## 3.4.1.3 Fatiamento
+# Listagem 3.13 - Exemplo de fatiamento
+s = "ABCDEFGHI"
+print(s[0:2])
+print(s[1:2])
+print(s[2:4])
+print(s[0:5])
+print(s[1:8])
+
+
+# Listagem 3.14 - Exemplo de fatiamento com omissão de valores e com índices negativos
+s = "ABCDEFGHI"
+print(s[:2])
+print(s[1:])
+print(s[0:-2])
+print(s[:])
+print(s[-1:])
+print(s[-5:7])
+print(s[-2:-1])
+
+###-----------------------------------------------------------###
+
+## 3.5 Sequências e tempo
+# Listagem 3.15 - Exemplo de sequência e tempo
+divida = 0
+compra = 100
+divida = divida + compra
+compra = 200
+divida = divida + compra
+compra = 300
+divida = divida + compra
+compra = 0
+print(divida)
+
+###-----------------------------------------------------------###
+
+## 3.6 Rastreamento
+
+###-----------------------------------------------------------###
+
+## 3.7 Entrada de dados
+
+# Listagem 3.15 - Exemplo de sequência e tempo
+divida = 0
+
+# Listagem 3.15 - Exemplo de sequência e tempo
+divida = 0
+
+# Listagem 3.15 - Exemplo de sequência e tempo
+divida = 0
+
+# Listagem 3.15 - Exemplo de sequência e tempo
+divida = 0
+
+# Listagem 3.15 - Exemplo de sequência e tempo
+divida = 0
 
 
 ###-----------------------------------------------------------###
+
+
+
+
+
+
+
+
+
